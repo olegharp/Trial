@@ -18,7 +18,7 @@ namespace Sharp
 
         public void showPoint()
         {
-            // little changes
+            // конфликт
         }
 
     }
